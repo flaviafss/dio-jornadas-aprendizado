@@ -21,11 +21,11 @@ Repositório para compartilhamento de estudos da Jornada de Aprendizados na DIO 
 
 - [x] Mentoria #1: Aula Inaugural do Decola Tech 2a edição
 
-- [x] Lógica de Programação Essencial
+- [x] [Lógica de Programação Essencial](https://github.com/flaviafss/dio-jornadas-aprendizado/tree/main/Logica_de_Programacao)
 
-- [x] Aprenda o que são Estrutura de Dados e Algoritmos
+- [x] [Aprenda o que são Estrutura de Dados e Algoritmos](https://github.com/flaviafss/dio-jornadas-aprendizado/tree/main/Estrutura_de_Dados)
 
-- [x] Introdução ao Git e ao GitHub
+- [x] [Introdução ao Git e ao GitHub](https://github.com/flaviafss/dio-jornadas-aprendizado/tree/main/Git_GitHub)
 
 - [x] Criando seu Primeiro Repositório no GitHub
 
