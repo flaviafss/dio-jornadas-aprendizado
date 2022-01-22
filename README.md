@@ -1,5 +1,9 @@
 # Jornadas de Aprendizados na DIO
-Repositório para compartilhamento de estudos da Jornada de Aprendizados na DIO (desafio de projeto: Git/GitHub -  1o repositório)
+Repositório para compartilhamento de estudos da Jornada de Aprendizados na DIO (desafio de projeto: Git/GitHub -  1o repositório).
+
+Trata-se do Bootcamp do Decola Tech 2a edição - Programa de Estágio da Avanade.
+
+
 
 ## :link: Links Úteis
 - [Fluxograma - Flowgorithm](http://www.flowgorithm.org)
